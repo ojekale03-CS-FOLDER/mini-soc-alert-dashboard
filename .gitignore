@@ -1,0 +1,8 @@
+__pycache__/
+*.log
+demo/
+fresh/
+incidents.json
+dashboard.html
+fix_parser.py
+restyle.py
